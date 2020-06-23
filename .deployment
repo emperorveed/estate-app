@@ -1,2 +1,2 @@
 [config]
-project = src/EstateApp.Web.csproj
+project = src/EstateApp.Web/EstateApp.Web.csproj
